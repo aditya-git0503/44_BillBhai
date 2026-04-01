@@ -195,6 +195,20 @@ The system supports the following key use cases:
 
 ---
 
+## Login Credentials (All Actors)
+
+Use these demo accounts to log in as each actor:
+
+| Actor                        | Role Label in App     | Username         | Password     | Default Landing Page     |
+|-----------------------------|----------------------|------------------|--------------|--------------------------|
+| Super User (Platform Owner) | Super User           | chirag           | chirag1234   | pages/superuser.html     |
+| Admin                       | Admin                | admin            | admin123     | pages/dashboard.html     |
+| Cashier                     | Cashier              | cashier          | cashier123   | pages/cashier.html       |
+| Return Handler              | Return Handler       | returnhandler    | return123    | pages/returns.html       |
+| Inventory Manager           | Inventory Manager    | inventorymanager | inventory123 | pages/inventory.html     |
+| Delivery Operations         | Delivery Ops         | deliveryops      | delivery123  | pages/delivery.html      |
+| Customer                    | Customer             | customer         | customer123  | pages/profile.html       |
+
 ## Key Highlights
 
 - End-to-end retail workflow coverage
